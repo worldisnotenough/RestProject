@@ -12,7 +12,7 @@ import json
 import redis
 myredis = redis.StrictRedis(host='localhost', port=6379, db=0)
 
-#bairaginath behera
+#bairaginath 
 
 class Register(APIView):
 
